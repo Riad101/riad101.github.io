@@ -1,0 +1,55 @@
+.container{
+    width:70%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.dice{
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+        
+    }
+
+ 
+    #dice1 {
+        padding-left: 28%;
+        
+ }   
+
+ #dice2{
+     padding-right: 5%;
+ }
+
+
+body{
+    background-color: #1d3557;
+}
+
+
+
+img{
+    width: 80%;
+}
+
+h1{
+    margin: 30px;
+    color:white;
+    font-size:5rem;
+}
+
+p{
+    color: #ffbe0b;
+    font-size: 3rem;
+}
+
+button{
+    width: 10%;
+    padding: 1%;
+    text-align: center;
+    margin: auto;
+    font-size: 3 rem;
+    background-color: #ffff3f;
+    
+}
